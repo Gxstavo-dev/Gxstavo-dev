@@ -41,9 +41,9 @@ Soy un estudiante de ingenieria en sistemas, me gusta crear cosas herramientas u
 ---
 
 ## 📊 Estadísticas
-[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gxstavo-dev&theme=dark&hide_border=true&layout=compact&langs_count=6)](https://github.com/Gxstavo-dev)
- 
-[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gxstavo-dev&show_icons=true&theme=dark&hide_border=true&count_private=true&rank_icon=github)](https://github.com/Gxstavo-dev)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gxstavo-dev&theme=dark&hide_border=true&layout=compact&langs_count=6" />
+<img src="https://github-readme-stats.vercel.app/api?username=Gxstavo-dev&show_icons=true&theme=dark&hide_border=true&count_private=true&rank_icon=github" />
+
  
 [![GitHub Streak](https://streak-stats.demolab.com?user=Gxstavo-dev&theme=dark&hide_border=true)](https://github.com/Gxstavo-dev)
 
