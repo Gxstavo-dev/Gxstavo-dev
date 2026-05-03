@@ -42,7 +42,7 @@ Soy un estudiante de ingenieria en sistemas, me gusta crear cosas herramientas u
 
 ## 📊 Estadísticas
 <img src="github-metrics.svg" />
-[![GitHub Streak](https://streak-stats.demolab.com?user=Gxstavo-dev&theme=dark&hide_border=true)](https://github.com/Gxstavo-dev)
+
 
 ---
 
