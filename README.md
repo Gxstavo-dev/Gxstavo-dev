@@ -34,10 +34,3 @@ Soy un estudiante de ingenieria en sistemas, me gusta crear cosas herramientas u
 | [Task-java-cli](https://github.com/Gxstavo-dev/Task-java-cli) | CLI de tareas almacenadas en .txt hecho en Java | Java |
 
 ---
-
-## 📊 Estadísticas
-<img src="github-metrics.svg" />
-
-
----
-
