@@ -33,6 +33,6 @@ Soy un estudiante de ingenieria en sistemas, me gusta crear cosas herramientas u
 | [Void-notas](https://github.com/Gxstavo-dev/Void-notas) | Aplicación desktop de notas con Python y webview | Python / JS |
 | [Task-java-cli](https://github.com/Gxstavo-dev/Task-java-cli) | CLI de tareas almacenadas en .txt hecho en Java | Java |
 | [Bot-Discord-de-practica](https://github.com/Gxstavo-dev/Bot-Discord-de-practica) | Bot de Discord personal de musica " para seguir practicando ts " | TypeScript |
-| [CRM open sources](https://github.com/Gxstavo-dev/CRM-) | CRM open sources usando Superbase + bun + ts + express | Typescript/bun/Supabase/Vite
+| [ERPDevs open sources](https://github.com/Gxstavo-dev/CRM-) | CRM open sources usando Superbase + bun + ts + express | Typescript/bun/Supabase/Vite
 
 ---
